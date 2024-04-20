@@ -10,6 +10,9 @@ Added:
 Removed:
   * Drop platform 6 fpm support
 
+Maintenance:
+  * On all Debian platforms simplify java depends, allow 17 or 11, prefer 17
+
 Bugfix:
   * Fix java dependency on SLES 15 when building Puppet Platform 7
 
