@@ -7,6 +7,9 @@ Added:
   * Add AmazonLinux 2023 as a FOSS build target
   * Use systemd's PrivateTmp feature for improved security
 
+Removed:
+  * Drop platform 6 fpm support
+
 Bugfix:
   * Fix java dependency on SLES 15 when building Puppet Platform 7
 
