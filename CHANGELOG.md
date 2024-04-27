@@ -4,6 +4,7 @@ This changelog adheres to [Keep a CHANGELOG](http://keepachangelog.com/).
 
 ## [Unreleased]
 Added:
+  * Add AmazonLinux 2023 as a FOSS build target
   * Use systemd's PrivateTmp feature for improved security
 
 Bugfix:
